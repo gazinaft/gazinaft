@@ -1,12 +1,6 @@
 # Hi 👋, I'm Kostya
 
-## An enthusiastic Game AI Programmer / Game Designer from Kyiv
-
-
-- 🌱 I’m currently learning Game AI and Game Design.
-- 👯 I’m looking to collaborate on interesting games.
-- 🤔 I’m looking for help with finding job.
-
+## An enthusiastic Game AI Programmer from Kyiv
 
 ### Skills
 
